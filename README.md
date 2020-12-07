@@ -9,7 +9,7 @@ Use the list provided or use the basic generator or
 Input| Output
 ------------ | -------------
 passwordgenertor | p@$$2u0r693n3r+0r
-passwordgenertor| |24zzw0rd63n3r70r 
+passwordgenertor| p4zzw0rd63n3r70r 
 
 edit the dictionary file to adjust the tolerance of character conversion. 
 
