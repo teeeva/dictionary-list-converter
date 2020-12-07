@@ -1,4 +1,4 @@
-# password-list-converter
+# dictionary-list-converter
 Convert existing lists and replace characters with special characters, or with "munged" or 1337 charaters. 
 
 Reforms existing passowrds lists 
