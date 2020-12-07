@@ -1,16 +1,14 @@
-#Password List reformer 
+# password-list-converter
+Convert existing lists and replace characters with special characters, or with "munged" or 1337 charaters. 
 
-Reforms existing passowrds lists with "munged" or 1337 charaters. 
-
-##Examples 
+Reforms existing passowrds lists 
+## Examples 
 
 Use the list provided or use the basic generator or 
 
 Input| Output
 ------------ | -------------
-Munged
 passwordgenertor | p@$$2u0r693n3r+0r
-13375p34k
 passwordgenertor| |24zzw0rd63n3r70r 
 
 edit the dictionary file to adjust the tolerance of character conversion. 
